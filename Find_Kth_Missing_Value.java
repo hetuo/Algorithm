@@ -11,8 +11,8 @@ Class Solution {
         if (!set.contains(A[i]))
           k--;
         if (k == 0)
-          return A[i]
+          return A[i];
       }
-      return -1
+      return -1;
   }
 }
